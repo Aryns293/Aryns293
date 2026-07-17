@@ -3,15 +3,11 @@
 <!-- Animated Header Wave -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hello%20World!%20I'm%20Aryan%20Sharma&fontSize=45&fontAlignY=35&desc=Backend%20Engineer%20%7C%20Competitive%20Programmer&descAlignY=55&descAlign=50" width="100%" alt="Header banner" />
 
-<!-- Animated Typing Subtitle -->
-<a href="https://github.com/Aryns293">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Backend+Engineer;Competitive+Programmer;Building+Distributed+Systems;DTU+Undergrad+(2023-2027)" alt="Typing SVG" />
-</a>
-
-<br/>
+<!-- Clean, Static Subtitle to replace broken typing SVG -->
+<h3>🚀 Building Distributed Systems, AI Applications & Developer Tools</h3>
 
 <!-- Profile Views Counter -->
-<img src="https://komarev.com/ghpvc/?username=Aryns293&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=Aryns293&label=Profile%20Views&color=8A2BE2&style=for-the-badge" alt="Profile Views" />
 
 <br/><br/>
 
@@ -25,9 +21,9 @@
 
 <br/>
 
-## 👨‍💻 About Me
+## 👨‍💻 About Me & Education
 
-🎓 **Software Engineering Undergrad** at Delhi Technological University (DTU)  
+🎓 **B.Tech in Software Engineering** at **Delhi Technological University (DTU)** (2023 - 2027) | CGPA: 8.23  
 🧠 **Algorithms Enthusiast:** LeetCode Knight (1920) | Codeforces Specialist (1411)  
 💻 **Focus Areas:** Backend Architecture, Distributed Systems, and AI Applications  
 🌱 **Currently Learning:** Advanced System Design & Scalable Microservices  
@@ -51,17 +47,17 @@
 
 ## 🏆 Competitive Programming
 
-<table align="center">
+<table align="center" style="border-collapse: collapse; border: none;">
   <tr>
-    <td align="center" width="50%">
-      <h3><img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="20px" /> LeetCode</h3>
+    <td align="center" width="50%" style="border: 1px solid #444; padding: 20px;">
+      <h3><img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="20px" style="vertical-align: middle;" /> LeetCode</h3>
       <p><b>Title:</b> Knight 🛡️</p>
       <p><b>Max Rating:</b> 1920</p>
       <p><b>Global Peak Rank:</b> 892</p>
       <p><b>Problems Solved:</b> 1000+</p>
     </td>
-    <td align="center" width="50%">
-      <h3><img src="https://cdn.iconscout.com/icon/free/png-256/code-forces-3628695-3029920.png" width="24px" /> Codeforces</h3>
+    <td align="center" width="50%" style="border: 1px solid #444; padding: 20px;">
+      <h3><img src="https://cdn.iconscout.com/icon/free/png-256/code-forces-3628695-3029920.png" width="24px" style="vertical-align: middle;" /> Codeforces</h3>
       <p><b>Title:</b> Specialist 🌟</p>
       <p><b>Max Rating:</b> 1411</p>
       <p><b>Global Peak Rank:</b> 1,484 (Div. 2)</p>
@@ -72,43 +68,43 @@
 
 <br/>
 
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aryns293&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aryns293&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aryns293&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
-</div>
-
-<br/>
-
-## 🐍 Contribution Activity
-
-<div align="center">
-  <!-- The snake will eat your contributions! (Requires GitHub Action setup below) -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Aryns293/Aryns293/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Aryns293/Aryns293/output/github-contribution-grid-snake.svg">
-    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Aryns293/Aryns293/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
-
-<br/>
-
 ## 🔥 Featured Projects
 
-<div align="center">
-  <a href="https://github.com/Aryns293/CodeSync-AI">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aryns293&repo=CodeSync-AI&theme=tokyonight&hide_border=true" alt="CodeSync AI" width="48%" />
-  </a>
-  <a href="https://github.com/Aryns293/gitlight">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aryns293&repo=gitlight&theme=tokyonight&hide_border=true" alt="GitLight" width="48%" />
-  </a>
-  <a href="https://github.com/Aryns293/GramPickup">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aryns293&repo=GramPickup&theme=tokyonight&hide_border=true" alt="GramPickup" width="48%" />
-  </a>
-</div>
+<!-- Custom HTML Project Cards that will never break -->
+<table align="center" width="100%" style="border-collapse: collapse;">
+  <tr>
+    <td width="33%" valign="top" style="border: 1px solid #444; padding: 20px;">
+      <h3 align="center">📦 GramPickup</h3>
+      <p align="center"><i>Village Parcel Pickup Platform</i></p>
+      <hr>
+      <p>Engineered a full-stack RESTful platform featuring robust JWT authentication, RBAC, and secure handover pipelines using OTP validation.</p>
+      <p><b>Stack:</b> React, Node.js, MongoDB</p>
+      <div align="center">
+        <a href="https://github.com/Aryns293/GramPickup"><img src="https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github" alt="GitHub Repo"/></a>
+      </div>
+    </td>
+    <td width="33%" valign="top" style="border: 1px solid #444; padding: 20px;">
+      <h3 align="center">🌳 GitLight</h3>
+      <p align="center"><i>Version Control Engine</i></p>
+      <hr>
+      <p>Developed a custom version control engine utilizing SHA-1 hashing and zlib DEFLATE, ensuring binary compatibility with standard Git protocols.</p>
+      <p><b>Stack:</b> Node.js, SHA-1, Binary Encoding</p>
+      <div align="center">
+        <a href="https://github.com/Aryns293/gitlight"><img src="https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github" alt="GitHub Repo"/></a>
+      </div>
+    </td>
+    <td width="33%" valign="top" style="border: 1px solid #444; padding: 20px;">
+      <h3 align="center">🤖 CodeSync AI</h3>
+      <p align="center"><i>Collaborative IDE</i></p>
+      <hr>
+      <p>Spearheaded a collaborative IDE using Socket.IO for low-latency multi-user editing, with AI bug detection via Gemini and isolated Docker execution.</p>
+      <p><b>Stack:</b> React, Socket.IO, Docker, Gemini</p>
+      <div align="center">
+        <a href="https://github.com/Aryns293/CodeSync-AI"><img src="https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github" alt="GitHub Repo"/></a>
+      </div>
+    </td>
+  </tr>
+</table>
 
 <br/>
 
